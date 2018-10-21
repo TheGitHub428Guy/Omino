@@ -1,0 +1,6 @@
+body {background: #DDDDDD}
+#o1 {box-shadow: 1px 1px 4px #000000;}
+#table {text-align: center}
+#o1txt {line-height: 0}
+#screen {border: 10px ridge grey; border-radius: 5px; background-color: #879E58; font-family: "Fixedsys", Monaco, monospace; width: 400px; overflow: hidden}
+#input {width: 399px; background-color: #879E58; border-bottom: 0px; border-right: 0px; border-left: 0px; border-top: 2px dotted #2c2c2c}
